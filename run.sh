@@ -1,0 +1,1 @@
+java -Xmx150G -jar target/MySmallJavaProject-1.0-SNAPSHOT-jar-with-dependencies.jar -i ./src/main/resources/WebIsA_data/tuplesdb.izq.csv
